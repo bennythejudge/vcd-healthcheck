@@ -1,7 +1,7 @@
 # vCloud Director Healthcheck
 This is a healthcheck script intended to be run against Skyscape's vCloud Director and provide feedback on any mis-configured or non-optimal configurations.
 
-[![Build Status](https://travis-ci.org/skyscape-cloud-services/vcd-healthcheck.svg?branch=master)](https://travis-ci.org/skyscape-cloud-services/vcd-healthcheck)
+[![Build Status](https://travis-ci.org/skyscape-cloud-services/vcd-healthcheck.svg?branch=master)](https://travis-ci.org/skyscape-cloud-services/vcd-healthcheck) [![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/vcd-healthcheck.svg)](https://www.guardrails.io)
 
 ## Installation
 Download the [latest release](https://github.com/skyscape-cloud-services/vcd-healthcheck/releases) of the healthcheck from GitHub. Release binaries are provided for you to download for both Windows and Linux. If you require other platforms, you can retrieve the source and compile for yourself.
